@@ -10,6 +10,7 @@ BaLaLaLs 的个人博客
 
 ### 最新
 
+* [java-RunTime.getRunTime().addShutdownHook](http://balalals.cn/articles/2019/09/06/1567737476722.html)
 * [netty-实现Websocket](http://balalals.cn/articles/2019/09/04/1567590183516.html)
 * [websocket](http://balalals.cn/articles/2019/09/04/1567573965089.html)
 * [netty-报错did not read anything but decoded a message](http://balalals.cn/articles/2019/09/02/1567419247361.html)
