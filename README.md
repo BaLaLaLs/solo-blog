@@ -10,6 +10,8 @@ BaLaLaLs 的个人博客
 
 ### 最新
 
+* [java 读写Properties 文件](http://balalals.cn/articles/2019/09/23/1569233804700.html)
+* [java日志框架](http://balalals.cn/articles/2019/09/23/1569224449937.html)
 * [mysql 大小写不敏感](http://balalals.cn/articles/2019/09/22/1569123211554.html)
 * [java-多线程](http://balalals.cn/articles/2019/09/19/1568857157688.html)
 * [java-RunTime.getRunTime().addShutdownHook](http://balalals.cn/articles/2019/09/06/1567737476722.html)
